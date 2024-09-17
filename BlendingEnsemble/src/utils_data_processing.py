@@ -80,7 +80,7 @@ class LoadData:
         return date
 
     def getData(self, filename):
-        df = pd.read_csv(f'./data/{filename}.csv')
+        df = pd.read_csv(f'./BlendingEnsemble/data/{filename}.csv')
         #Check if the current index is a datetime type
         if not pd.api.types.is_datetime64_any_dtype(df.index):
             match df.columns.any():
