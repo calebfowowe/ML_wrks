@@ -1,0 +1,650 @@
+2024-09-23 21:08:10.248 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:10.249 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:10.249 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:10.249 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:10.273 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:10.293 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:10.294 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:10.315 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:15.761 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:15.762 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:15.762 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:15.763 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:15.785 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:15.808 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:15.809 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:15.838 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:15.845 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:15.925 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:15.927 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:15.927 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:15.928 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:15.968 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:15.994 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:15.996 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.027 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:16.032 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:16.296 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.298 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.322 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.333 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.372 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.417 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.417 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.418 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.599 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.610 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.612 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.619 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.677 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.678 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.678 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.681 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.683 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.684 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.685 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.688 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.702 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.694 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.777 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.778 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.828 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.828 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:16.829 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.829 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.829 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.829 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:16.830 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:16.831 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.832 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:16.860 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.876 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.889 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.893 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.894 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.903 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.904 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.905 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.906 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.915 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.918 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:16.923 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.925 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.925 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.926 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.938 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:16.947 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.948 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.950 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.950 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:16.962 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:16.968 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:16.970 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:16.974 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.974 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:16.994 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:16.990 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:17.000 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:17.004 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:17.004 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:17.008 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:17.009 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:17.005 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:17.018 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:17.023 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:17.064 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:17.073 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:17.079 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:17.085 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:22.281 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:22.283 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:22.284 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:22.284 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:22.312 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:22.444 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:22.445 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:22.480 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:22.486 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:23.643 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.644 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.644 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.645 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.659 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.659 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.660 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.660 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.660 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.662 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.663 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.664 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.668 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.670 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.670 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.671 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.671 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.672 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.672 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.674 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.685 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.691 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.694 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.699 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.701 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.745 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.820 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.827 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.829 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.833 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.836 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.837 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.837 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.837 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.838 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.845 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:23.846 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:23.846 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.846 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:23.846 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:23.850 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.861 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.865 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.866 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.879 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.880 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.880 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.881 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.883 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:23.879 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.887 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.892 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.890 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.901 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.907 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.909 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.909 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.912 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.913 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.914 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:23.916 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:23.920 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:23.926 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:23.930 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:23.944 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:23.969 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:23.973 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:23.975 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:23.978 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:23.982 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:23.987 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:24.024 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:24.029 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:24.033 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:24.038 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:24.040 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:24.059 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:24.068 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:24.084 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:24.090 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:24.099 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:28.269 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:28.269 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:28.270 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:28.270 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:28.292 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:28.316 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:28.317 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:28.361 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:28.369 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:29.671 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:29.672 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:29.672 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:29.673 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:29.704 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:29.729 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:29.730 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:29.769 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:29.780 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:30.096 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.098 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.099 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.099 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.134 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:30.151 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.153 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.153 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.154 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.158 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:30.160 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:30.192 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:30.209 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:30.233 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:30.236 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.239 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.240 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.241 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.358 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:30.371 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:30.408 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:30.411 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:30.417 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.418 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.419 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.419 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.465 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:30.489 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:30.571 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.572 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.573 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.573 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.589 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:30.605 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:30.707 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.713 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.716 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.718 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.861 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:30.886 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:30.898 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.899 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.900 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.900 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:30.914 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:30.916 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:30.918 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:30.920 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:30.921 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:30.922 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:31.022 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:31.030 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:31.061 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:31.074 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:31.081 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:31.098 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:31.104 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:31.108 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:31.109 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:31.110 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:31.114 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:31.115 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:31.141 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:31.144 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:31.158 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:31.163 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:31.193 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:31.199 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:31.201 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:31.205 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:31.206 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:31.212 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:35.852 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:35.853 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:35.853 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:35.853 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:35.935 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:36.034 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:36.038 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:36.075 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:36.075 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:36.076 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:36.076 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:36.076 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:36.115 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:36.122 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:36.174 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:36.178 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:36.258 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:36.295 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:37.454 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:37.458 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:37.463 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:37.465 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:37.470 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:37.477 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:37.478 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:37.478 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:37.504 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:37.509 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:37.530 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:37.531 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:37.532 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:37.535 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:37.602 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:37.610 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:37.615 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:37.636 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:37.737 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:37.751 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:37.752 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:37.752 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:37.752 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:37.753 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:37.764 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:37.775 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:37.855 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:37.859 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:37.880 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:37.882 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:37.883 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:37.885 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:37.894 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:37.899 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:37.900 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:37.901 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:37.925 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:37.934 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:37.937 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:37.949 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:37.951 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:37.958 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:37.959 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:38.160 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:38.179 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:38.593 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:38.596 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:38.598 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:38.600 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:38.640 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:38.671 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:38.674 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:38.702 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:38.708 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:38.832 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:38.834 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:38.834 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:38.834 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:38.835 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:38.842 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:38.844 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:38.853 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:38.894 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:38.976 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:39.014 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:39.016 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:39.028 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:39.032 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:39.060 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:39.074 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:39.087 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:39.091 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:44.467 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:44.477 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:44.478 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:44.495 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:44.892 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:44.892 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:44.893 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:44.893 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:44.894 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:44.900 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:44.959 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:44.975 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:44.988 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:44.990 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:44.991 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:44.992 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:45.016 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:45.028 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:45.033 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:45.034 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:45.034 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:45.035 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:45.039 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:45.041 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:45.042 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:45.042 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:45.043 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:45.045 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:45.050 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:45.051 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:45.052 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:45.052 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:45.098 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.124 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.121 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.154 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.166 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.178 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.184 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.191 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:45.192 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.203 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.202 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.212 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.213 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.215 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.220 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.221 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.254 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.255 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.259 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.261 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.262 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.265 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.264 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.270 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:45.285 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.289 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.290 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.291 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.293 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:45.299 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.305 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.313 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.322 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.326 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.329 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.343 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.365 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.371 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:45.375 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:45.383 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:46.014 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:46.015 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:46.016 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:46.017 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:46.046 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:46.067 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:46.068 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:46.116 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:46.125 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:46.662 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:46.663 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:46.664 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:46.664 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:46.907 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:47.162 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:47.163 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:47.297 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:47.302 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:51.347 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:51.348 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:51.349 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:51.349 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:51.407 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:51.461 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:51.464 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:51.515 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:51.522 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:51.535 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:51.544 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:51.555 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:51.557 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:51.620 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:51.643 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:51.644 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:51.664 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:51.667 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:51.668 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:51.673 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:51.695 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:51.697 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:51.698 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:51.699 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:51.702 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:51.706 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:51.731 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:51.778 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:51.805 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:51.807 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:51.811 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:51.815 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:51.891 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:51.901 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:51.908 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:51.917 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:52.296 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:52.298 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:52.306 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:52.308 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:52.350 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:52.383 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:52.384 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:52.384 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:52.385 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:52.415 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:52.417 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:52.417 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:52.417 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:52.426 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:52.439 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:52.443 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:52.467 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:52.474 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:52.477 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:52.483 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:52.507 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:52.611 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:52.614 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:52.741 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:52.755 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:52.756 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:52.757 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:52.757 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:52.759 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:52.806 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:52.816 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:52.830 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:52.837 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:52.840 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:52.897 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:52.923 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:52.959 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:52.960 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:52.960 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:52.961 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:53.058 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:53.203 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:53.205 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:53.206 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:53.207 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:53.249 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:53.279 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:53.280 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:53.340 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:53.341 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:53.371 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:53.381 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:53.388 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:53.395 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:58.501 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:58.504 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:58.504 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:58.505 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:58.612 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:58.660 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:58.663 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:58.664 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:58.666 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:58.823 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:58.834 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:58.837 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:58.854 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:58.856 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:58.870 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:58.887 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:58.929 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:58.943 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:08:59.750 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:08:59.751 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:08:59.751 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:08:59.751 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:08:59.817 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:08:59.883 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:08:59.884 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:08:59.989 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:08:59.995 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:00.082 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:00.084 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:00.084 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:00.085 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:00.127 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:00.206 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:00.207 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:00.278 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:00.279 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:00.280 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:00.280 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:00.319 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:00.320 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:00.320 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:00.321 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:00.430 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:00.467 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:00.480 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:00.483 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:00.484 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:00.485 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:00.486 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:00.519 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:00.523 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:00.577 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:00.577 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:00.580 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:00.583 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:00.589 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:00.590 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:00.612 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:00.619 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:00.633 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:00.635 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:00.649 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:00.656 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:00.792 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:00.793 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:00.794 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:00.797 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:00.986 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:01.117 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:01.118 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:01.157 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:01.171 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:01.682 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:01.683 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:01.683 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:01.684 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:01.706 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:01.727 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:01.729 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:01.750 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:01.756 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:02.155 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:09:02.156 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:09:02.156 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:09:02.156 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:09:02.189 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:09:02.296 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:09:02.298 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:09:02.328 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:09:02.334 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:09:05.875 | ERROR    | BlendingEnsemble.src.utils_features_engineering:get_TA_features:394 - TA_features not created successfully, check setup
+2024-09-23 21:20:07.757 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-23 21:20:07.758 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-23 21:20:07.758 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-23 21:20:07.760 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-23 21:20:07.784 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-23 21:20:07.813 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-23 21:20:07.814 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-23 21:20:07.835 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-23 21:20:12.488 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_TA_features:390 - Technical Indicator Features: feature successfully calculated
+2024-09-23 21:28:04.940 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_cluster_number:657 - 14 optimal clusters selected, which were within the threshold of 6.50%, and 3.00%.
+2024-09-23 21:28:05.265 | INFO     | BlendingEnsemble.src.utils_features_engineering:kmeans_selector:619 - (14)final features were selected from the (14)clusters.
