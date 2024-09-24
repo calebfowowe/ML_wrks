@@ -1,4 +1,8 @@
 #Import the internal modules written for the purpose of this project
+import pandas as pd
+import openpyxl
+import streamlit as st
+
 from BlendingEnsemble.src.utils_data_processing import (LoadData, cwts, getpath, rnd_state)
 from BlendingEnsemble.src.utils_features_engineering import (FeaturesCreation, FeaturesTransformation, FeaturesSelection)
 from BlendingEnsemble.src.utils_model_and_tuning import (Blending, HpTuning, SimpleBacktest, Btest)
@@ -15,6 +19,15 @@ from sklearn.linear_model import LogisticRegression
 
 # Creates a folder for saving of code graphics and trading strategy report.
 output_path = getpath()
+
+
+### Config File read:
+def config_to_dict(config_name):
+    params = pd.read_excel(f'../BlendingEnsemble/{config_name}', sheet_name='parameters', header=None, index_col=0)
+    for val in params.to_dict().values():
+        params_diction = val
+    return params_diction
+
 
 # Load Data
 def step1LoadData(data_files, time_period, plotdata=True):
@@ -35,10 +48,10 @@ def step1LoadData(data_files, time_period, plotdata=True):
 
 ### Feature Engineering
 def step2Features(df, short_prd=5, medium_prd=10, upper_std=2, lower_std=1, hurdle=0.005,
-                  upper_threshold=0.065, lower_threshold=0.03):
+                  upper_threshold=0.065, lower_threshold=0.03, fund_feat=True, macro_feat=True):
     # Instantiate the FeaturesCreation subclass providing the dataframe and the target parameters as inputs
     feat_df = FeaturesCreation(df, short_prd, medium_prd, upper_std, lower_std, hurdle)
-    new_ft = feat_df.create_all_features(fundamental_features=True, macro_features=True)
+    new_ft = feat_df.create_all_features(fundamental_features=fund_feat, macro_features=macro_feat)
     feat_transform = FeaturesTransformation(new_ft)  # Instantiate the FeaturesTransformation
     new_ft2 = feat_transform.transformDaysColumn()
     new_ft2 = new_ft2.astype('float64')
@@ -97,12 +110,12 @@ def step3ModelParams(df):
     return basemodels, blender, basemodels_params, blender_params
 
 
-def step4RunModel(df, basemodels, blender, testsize=0.20):
+def step4RunModel(df, basemodels, blender, testsize=0.20, valsize=0.20):
     # Separate final X and y - Features and target
     X_final = df.iloc[:, :-1].values
     y_final = df.iloc[:, -1].values
 
-    Blnd = Blending(X_final, y_final, basemodels, blender, testsize=testsize, valsize=0.20)
+    Blnd = Blending(X_final, y_final, basemodels, blender, testsize=testsize, valsize=valsize)
     acc, f1score, ypred, yprob, yfull = Blnd.runBlendingEnsemble()
 
     print(f"Accuracy Score: {acc: .1%}, f1score: {f1score:.1%}")
