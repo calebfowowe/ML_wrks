@@ -692,3 +692,25 @@
 2024-09-24 02:36:21.002 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_TA_features:390 - Technical Indicator Features: feature successfully calculated
 2024-09-24 02:44:13.477 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_cluster_number:657 - 14 optimal clusters selected, which were within the threshold of 6.50%, and 3.00%.
 2024-09-24 02:44:13.849 | INFO     | BlendingEnsemble.src.utils_features_engineering:kmeans_selector:619 - (14)final features were selected from the (14)clusters.
+2024-09-25 13:53:10.862 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-25 13:53:10.863 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-25 13:53:10.863 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-25 13:53:10.864 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-25 13:53:10.889 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-25 13:53:10.910 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-25 13:53:10.911 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-25 13:53:10.932 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-25 13:53:16.252 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_TA_features:390 - Technical Indicator Features: feature successfully calculated
+2024-09-25 14:01:03.918 | INFO     | BlendingEnsemble.src.utils_features_engineering:get_cluster_number:657 - 14 optimal clusters selected, which were within the threshold of 6.50%, and 3.00%.
+2024-09-25 14:01:04.232 | INFO     | BlendingEnsemble.src.utils_features_engineering:kmeans_selector:619 - (14)final features were selected from the (14)clusters.
+2024-09-25 16:48:08.085 | INFO     | src.utils_features_engineering:get_FA_features:202 - Fundamental Features: Price-to-Earnings-to-Dividend Ratio (PED)Ratio feature successfully calculated
+2024-09-25 16:48:08.086 | INFO     | src.utils_features_engineering:get_FA_features:209 - Fundamental Features: Price to Earnings and Price to Book Combined (PEPB)_Ratio feature successfully calculated
+2024-09-25 16:48:08.089 | INFO     | src.utils_features_engineering:get_FA_features:216 - Fundamental Features: Price to Cash & Price to Earnings Combined (PCFPER) feature successfully calculated
+2024-09-25 16:48:08.089 | INFO     | src.utils_features_engineering:get_FA_features:224 - Fundamental Features: Combined Valuation Metric (CVM)_feature successfully calculated
+2024-09-25 16:48:08.120 | INFO     | src.utils_features_engineering:get_Macro_features:249 - Macro features: Yield Spread feature successfully calculated
+2024-09-25 16:48:08.142 | INFO     | src.utils_features_engineering:get_Macro_features:258 - Macro Features: CPI/GDP Ratio feature successfully calculated
+2024-09-25 16:48:08.143 | INFO     | src.utils_features_engineering:get_Macro_features:266 - Macro Features: CPI vs Yield Correlation feature successfully calculated
+2024-09-25 16:48:08.164 | INFO     | src.utils_features_engineering:get_Macro_features:274 - Macro Features: Real Interest Rates feature successfully calculated
+2024-09-25 16:48:14.596 | INFO     | src.utils_features_engineering:get_TA_features:390 - Technical Indicator Features: feature successfully calculated
+2024-09-25 16:56:26.135 | INFO     | src.utils_features_engineering:get_cluster_number:657 - 9 optimal clusters selected, which were within the threshold of 6.50%, and 3.00%.
+2024-09-25 16:56:26.487 | INFO     | src.utils_features_engineering:kmeans_selector:619 - (9)final features were selected from the (9)clusters.

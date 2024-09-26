@@ -2,7 +2,7 @@
 Blending Ensemble Model - CQF Final Project
 Using Streamlit to deploy the ML app. | Caleb Fowowe
 """
-from BlendingEnsemble.src.Blending import (step1LoadData, step2Features, step3ModelParams,
+from src.Blending import (step1LoadData, step2Features, step3ModelParams,
                                            step4RunModel, step5TuneModel, step6RunTunedModel,
                                            step7RunBacktest1, step8RunBacktest2, config_to_dict)
 

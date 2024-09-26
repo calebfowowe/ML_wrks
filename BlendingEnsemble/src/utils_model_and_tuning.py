@@ -40,7 +40,7 @@ warnings.filterwarnings('ignore')
 import quantstats as qs
 from backtesting import Backtest, Strategy
 
-from BlendingEnsemble.src.utils_data_processing import getpath, rnd_state
+from src.utils_data_processing import getpath, rnd_state
 
 
 #BLENDED ENSEMBLE

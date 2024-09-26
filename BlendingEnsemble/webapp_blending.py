@@ -2,8 +2,11 @@
 Blending Ensemble Model - CQF Final Project
 Using Streamlit to deploy the ML app. | Caleb Fowowe
 """
-
-from BlendingEnsemble.src.Blending import step1LoadData, step2Features, step3ModelParams, step4RunModel, step5TuneModel, step6RunTunedModel, step7RunBacktest1, step8RunBacktest2, config_to_dict
+import os
+print(os.getcwd())
+from src.Blending import (step1LoadData, step2Features, step3ModelParams, step4RunModel,
+                                           step5TuneModel, step6RunTunedModel, step7RunBacktest1,
+                                           step8RunBacktest2, config_to_dict)
 
 import streamlit as st
 from datetime import datetime
@@ -28,7 +31,7 @@ def main():
 
     try:
         #Upload parameters config file
-        params_dict = config_to_dict(config_file)
+        params_dict = config_to_dict()
         data_files = {'files': [item.strip() for item in
                                 params_dict['files'].split(",")]}  #extract the files & remove whitespaces
 

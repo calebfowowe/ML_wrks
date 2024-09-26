@@ -3,9 +3,9 @@ import pandas as pd
 import openpyxl
 import streamlit as st
 
-from BlendingEnsemble.src.utils_data_processing import (LoadData, cwts, getpath, rnd_state)
-from BlendingEnsemble.src.utils_features_engineering import (FeaturesCreation, FeaturesTransformation, FeaturesSelection)
-from BlendingEnsemble.src.utils_model_and_tuning import (Blending, HpTuning, SimpleBacktest, Btest)
+from src.utils_data_processing import (LoadData, cwts, getpath, rnd_state)
+from src.utils_features_engineering import (FeaturesCreation, FeaturesTransformation, FeaturesSelection)
+from src.utils_model_and_tuning import (Blending, HpTuning, SimpleBacktest, Btest)
 
 #Import external modules for the basemodels and blender (metamodel)
 from xgboost import XGBClassifier
@@ -22,8 +22,8 @@ output_path = getpath()
 
 
 ### Config File read:
-def config_to_dict(config_name):
-    params = pd.read_excel(f'../BlendingEnsemble/{config_name}', sheet_name='parameters', header=None, index_col=0)
+def config_to_dict():
+    params = pd.read_excel(f'../BlendingEnsemble/config_file.xlsx', sheet_name='parameters', header=None, index_col=0)
     for val in params.to_dict().values():
         params_diction = val
     return params_diction
@@ -39,9 +39,9 @@ def step1LoadData(data_files, time_period, plotdata=True):
     # fix future data that are not available yet, can drop rows to choose, knn_impute method was used here.
     df = ldata.fixNullData(df, method='knnimpute')
     #Plot charts
-    if plotdata:
-        ldata.plotCandleStick(df)
-        ldata.plotPrices(df)
+    # if plotdata:
+    #     ldata.plotCandleStick(df)
+    #     ldata.plotPrices(df)
 
     return df #return clean-up dataframe for next step
 
