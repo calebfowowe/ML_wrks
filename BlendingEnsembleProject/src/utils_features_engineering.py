@@ -99,10 +99,10 @@ class FeaturesEngineering:
         return Xtrain, Xtest, ytrain, ytest
 
     @staticmethod
-    def randomforestSelection(X_train, X_test, y_train, y_test, class_weight,
+    def randomforestSelection(X_train, X_test, y_train, y_test, class_wgt,
                               scaler=StandardScaler(), max_features=5):
         # define random forest classifier
-        rf = RandomForestClassifier(n_jobs=-1, class_weight=class_weight, random_state=rnd_state(),
+        rf = RandomForestClassifier(n_jobs=-1, class_weight=class_wgt, random_state=rnd_state(),
                                     max_features=max_features)
         # scale and fit the model
         rf_pipe = Pipeline([

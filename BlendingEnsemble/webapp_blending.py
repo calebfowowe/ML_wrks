@@ -4,9 +4,8 @@ Using Streamlit to deploy the ML app. | Caleb Fowowe
 """
 import os
 print(os.getcwd())
-from src.Blending import (step1LoadData, step2Features, step3ModelParams, step4RunModel,
-                                           step5TuneModel, step6RunTunedModel, step7RunBacktest1,
-                                           step8RunBacktest2, config_to_dict)
+from src.Blending import (step1LoadData, step2Features, step3ModelParams, step4RunModel, step5TuneModel,
+                          step6RunTunedModel, step7RunBacktest1, step8RunBacktest2, config_to_dict)
 
 import streamlit as st
 from datetime import datetime

@@ -1,0 +1,13 @@
+pandas
+numpy
+configparser
+asyncio
+numpy
+yfinance
+TA_lib
+openai
+agents
+pydantic
+plotly
+openpyxl
+pathlib
